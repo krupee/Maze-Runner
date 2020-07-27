@@ -1,2 +1,5 @@
 # Maze-Runner
-A maze solver with visuals that executes DFS, BFS, A*, bi-directional BFS, an improved heuristic algorithm to solve “fire” mazes and a genetic algorithm that creates hard mazes 
+
+Click on this Google Drive link for the full report and analysis:
+
+https://docs.google.com/document/d/1KSvsAoGbpShV_WH9bGaqUOaSLV6gU3yANGOLU5mmfcE/edit
